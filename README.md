@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hello I'm Shubham Meena:
 💫 I am currently working in the field of VLSI and Machine learning.
 
 
