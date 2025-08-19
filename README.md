@@ -6,8 +6,8 @@ My interests revolve around building systems that bridge the gap between **AI al
 ---
 
 ## 🔬 About Me
-- 🎓 2nd-year student with a strong foundation in **Digital Design, Computer Architecture, and Semiconductor Devices**.  
-- 🖥️ Exploring **Verilog/SystemVerilog, RTL Design, and Hardware Simulation** using tools like **Xilinx Vivado, ModelSim, and HSPICE**.  
+- 🎓 3rd-year student with a strong foundation in **Digital Design, Computer Architecture, and Semiconductor Devices**.  
+- 🖥️ Exploring **Verilog/SystemVerilog, RTL Design, and Hardware Simulation** using tools like **Xilinx Vivado, ModelSim, and LTspice**.  
 - 🤖 Applying **Machine Learning and Deep Learning** concepts to domains like **neuromorphic hardware, fingerprint recognition, and keyword spotting accelerators**.  
 - 🚀 Passionate about **hardware-aware AI**, low-power design, and the future of **edge intelligence**.  
 
@@ -23,7 +23,7 @@ My interests revolve around building systems that bridge the gap between **AI al
 ## 🛠️ Skills & Tools
 - **Hardware**: Verilog, SystemVerilog, RTL Design, FPGA Simulation, Synthesis  
 - **Software/ML**: Python, TensorFlow/Keras, PyTorch, NumPy, OpenCV  
-- **EDA Tools**: Xilinx Vivado, ModelSim, HSPICE, Cadence (basics)  
+- **EDA Tools**: Xilinx Vivado, MATLAB, LTspice, Cadence (basics)  
 - **Special Interests**: Neuromorphic Computing, TinyML, Hardware Accelerators, Semiconductor Fabrication  
 
 ---
@@ -36,9 +36,8 @@ My interests revolve around building systems that bridge the gap between **AI al
 ---
 
 ## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 📧 Email: *your.email@example.com*  
-- 📂 Portfolio/Projects: *[GitHub Profile](https://github.com/yourusername)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-meena-2139992b4/)  
+- 📧 Email: *shubhammmeena.iit@gmail.com*  
 
 ---
 
