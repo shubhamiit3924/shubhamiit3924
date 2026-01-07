@@ -39,25 +39,40 @@ I am a 3rd-year undergraduate student at <b>IIT Mandi</b>, pursuing <b>Microelec
 
 ###
 
+
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
+  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
+
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
+
+  <!-- Verilog -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" height="40" />
+  <img width="12" />
+
+  <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
   <img width="12" />
+
+  <!-- Scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" />
+  <img width="12" />
+
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
+  <img width="12" />
+
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
+
+  <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
 </div>
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Verilog_logo.svg" height="40" />
-  <img width="12" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" />
-  <img width="12" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" />
-</div>
 
