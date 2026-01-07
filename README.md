@@ -51,9 +51,6 @@ I am a 3rd-year undergraduate student at <b>IIT Mandi</b>, pursuing <b>Microelec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
 
-  <!-- Verilog -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" height="40" />
-  <img width="12" />
 
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
@@ -71,8 +68,6 @@ I am a 3rd-year undergraduate student at <b>IIT Mandi</b>, pursuing <b>Microelec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
 
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
 </div>
 
 
